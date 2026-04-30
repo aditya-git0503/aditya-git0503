@@ -5,13 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+cool+stuff;Full+Stack+Developer;DSA+Grinder;Always+learning+something+new" />
 </p>
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aditya-git0503/aditya-git0503/output/pacman.svg" />
-</p>
 
 ---
 
