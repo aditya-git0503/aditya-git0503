@@ -10,7 +10,7 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aditya-git0503/aditya-git0503/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/aditya-git0503/aditya-git0503/output/pacman.svg" />
 </p>
 
 ---
