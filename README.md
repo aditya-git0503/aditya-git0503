@@ -1,22 +1,26 @@
 <h1 align="center">Hey, I'm Aditya</h1>
 <h3 align="center">Undergraduate Student | Builder | Problem Solver</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+cool+stuff;Full+Stack+Developer;DSA+Grinder;Always+learning+something+new" />
 </p>
 
 ---
 
-## GitHub Activity
+## 🎮 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aditya-git0503/aditya-git0503/output/profile-3d-contrib/profile-night-view.svg" />
+  <img src="https://raw.githubusercontent.com/aditya-git0503/aditya-git0503/main/profile-3d-contrib/profile-night-view.svg" />
+</p>
+
+<p align="center">
+  <a href="./pacman-animation.html">
+    <img src="https://img.shields.io/badge/🎮-Play%20Pac--Man-ffd700?style=for-the-badge" alt="Play Pac-Man Game">
+  </a>
 </p>
 
 ---
 
 ## About Me
-
 - Into **Full Stack + Systems**
 - Solving **DSA consistently**
 - Working on **systems + scalable web apps**
@@ -48,7 +52,6 @@
 ---
 
 ## LeetCode Stats
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/adityacode0503" />
 </p>
