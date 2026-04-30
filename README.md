@@ -1,17 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Aditya</h1>
+<h3 align="center">Undergraduate Student | Builder | Problem Solver</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+cool+stuff;Full+Stack+Developer;DSA+Grinder;Always+learning+something+new" />
+</p>
 
-<!--
-**aditya-git0503/aditya-git0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## GitHub Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aditya-git0503/aditya-git0503/output/profile-3d-contrib/profile-night-view.svg" />
+</p>
+
+---
+
+## About Me
+
+- Into **Full Stack + Systems**
+- Solving **DSA consistently**
+- Working on **systems + scalable web apps**
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,sql" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+</p>
+
+### Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,intellij" />
+</p>
+
+---
+
+## LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/adityacode0503" />
+</p>
+
+---
