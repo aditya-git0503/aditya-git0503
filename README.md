@@ -17,6 +17,7 @@
 
 ## About Me
 
+- Aspiring SDE from Pune
 - Into **Full Stack + Systems**
 - Solving **DSA consistently**
 - Working on **systems + scalable web apps**
